@@ -1,0 +1,50 @@
+#container{
+    width: 100%;
+    background-image: url(https://img5.thuthuatphanmem.vn/uploads/2021/08/25/background-3d-4k_085529380.jpg);
+text-align: center;
+}
+
+
+#avatar{
+width: 100px;
+height: 100px;
+border-radius: 50%;
+border: 1px solid rgb(143, 187, 23);
+}
+
+
+#name{
+    color: red;
+
+}
+
+
+#age{
+    font-size:25px ;
+    font-weight: bolder;
+
+}
+
+#birthday{
+    color: rgb(7, 7, 7);
+font-size: large;
+
+}
+
+#school{
+text-decoration: none;
+
+}
+
+#tip_text{
+width: 200px;
+height: 35px;
+margin-top: 15px;
+border-radius: 5px;
+
+}
+#map{
+    width: 400px;
+    height: 250px;
+margin: 15px 10px 20px 12px;
+}
